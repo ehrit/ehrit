@@ -1,9 +1,9 @@
-### Hi there 👋
-
 My name is Chris. I'm a father and IT engineer with ~10 years of experience in that profession, though, I am working, playing, and learning with computers for my whole life. As I want to improve my coding skills and hardly have any experience with git, I started to use Github more frequently (and it was also a part of John Savill's video course...). 
+
 
 - 🌱 I’m currently learning [Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops) to tackle the [AZ-400 exam](https://learn.microsoft.com/en-us/certifications/exams/az-400)
 - 🤔 I’m banging my head on defeating Owl (Father) in Sekiro - Shadows Die Twice
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/christopher-ehrit/">
