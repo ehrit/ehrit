@@ -5,7 +5,7 @@ My name is Chris. I'm a father and IT engineer with ~10 years of experience in t
 - 🌱 I’m currently learning [Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops) to tackle the [AZ-400 exam](https://learn.microsoft.com/en-us/certifications/exams/az-400)
 - 🤔 I’m banging my head on defeating Owl (Father) in Sekiro - Shadows Die Twice
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/christopher-ehrit/">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
