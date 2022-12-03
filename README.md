@@ -9,12 +9,6 @@ My name is Chris. I'm a father and IT engineer with ~10 years of experience in t
   <a href="https://www.linkedin.com/in/christopher-ehrit/">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.steamidfinder.com/lookup/76561199017992461/">
-    <img src="https://www.steamidfinder.com/signature/76561199017992461.png" alt=" Steam Signature"/>
-  </a>
-  <a href="https://www.credly.com/users/christopher-ehrit/badges">
-    <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/d54vmdgqw3nopbl4xohr">
-  </a>
 </p>
 
 <!--
