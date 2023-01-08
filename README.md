@@ -2,7 +2,8 @@ Hi there! My name is Chris. I'm a proud father and a system engineer with ~10 ye
 I specialize in designing and implementing efficient and scalable solutions for complex systems. In my free time, I enjoy spending time with my family and staying up-to-date with the latest industry trends.<br />
 As I want to improve my coding skills and hardly have any experience with git, I started to use Github more frequently (and it was also a part of John Savill's video course...). 
 
-- 🌱 I’m currently learning [Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops) to tackle the [AZ-400 exam](https://learn.microsoft.com/en-us/certifications/exams/az-400)
+- 🌱 I’m currently learning [Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops?view=azure-devops)
+- 🔭 I'm currently working on an automated end-to-end MS PKI installation process
 - 🤔 I’m banging my head on defeating Demon of Hatred in Sekiro
 
 I'm always looking for new challenges and opportunities to learn and grow as a professional.<br />
